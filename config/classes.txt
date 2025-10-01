@@ -1,0 +1,5 @@
+bottle
+cup
+book
+cell phone
+keyboard
