@@ -37,5 +37,5 @@ See `requirements.txt`.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/smart-inventory-system.git
+   git clone https://github.com/anikbiswas730/smart-inventory-system.git
    cd smart-inventory-system
