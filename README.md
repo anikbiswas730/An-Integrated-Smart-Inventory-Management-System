@@ -7,7 +7,7 @@ An integrated, low-cost smart inventory management system using **YOLOv5** for o
 
 ![System Diagram](assets/system_diagram.png)
 
-## 🧠 Features
+##  Features
 
 - Real-time object detection using YOLOv5 (COCO dataset)
 - Hands-free voice command interface (English)
@@ -27,11 +27,11 @@ An integrated, low-cost smart inventory management system using **YOLOv5** for o
 - 11.1V 2200mAh LiPo battery + buck converters
 - Breadboard, jumper wires, mounting hardware
 
-## 📦 Software Dependencies
+##  Software Dependencies
 
 See `requirements.txt`.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### On Raspberry Pi
 
