@@ -16,7 +16,7 @@ An integrated, low-cost smart inventory management system using **YOLOv5** for o
 - Live video streaming over TCP
 - Distributed control: Raspberry Pi (AI/voice) + Arduino (real-time control)
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 - Raspberry Pi 4 (4GB RAM)
 - Arduino Uno R3
